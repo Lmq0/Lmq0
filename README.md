@@ -19,17 +19,13 @@ Here are some ideas to get you started:
 
 > ### ***"Talk is cheap. Show me the code." — Linus Torvalds***
 
-<p align="left">
-  <!-- 左边：你的头像。请把 src 换成你上传到仓库的头像图片文件名 -->
-  <img src="./avatar.jpg" alt="Lmq's Avatar" width="18%" style="display:inline-block; margin-right:3%; border-radius: 15px;">
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <!-- 左边头像：调小尺寸，并固定高度避免撑开版面 -->
+  <img src="./avatar.jpg" alt="Lmq's Avatar" width="12%" style="border-radius: 15px; height: 220px; object-fit: cover;" />
   
-  <!-- 右边：贪吃蛇贡献图。会自动抓取你的提交记录 -->
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lmq0/Lmq0/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lmq0/Lmq0/output/github-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Lmq0/Lmq0/output/github-snake.svg" width="75%" style="display:inline-block;">
-</picture>
-
+  <!-- 右边贪吃蛇：拉大宽度占比 -->
+  <img src="https://raw.githubusercontent.com/Lmq0/Lmq0/output/github-snake-dark.svg" alt="GitHub Contribution Snake" width="84%" style="max-height: 220px;" />
+</p>
 
 
 I am proficient in or learning to use these languages or tools:
