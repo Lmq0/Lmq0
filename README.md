@@ -60,20 +60,22 @@ I am proficient in or learning to use these languages or tools:
 
 -------
 
-## 🤝 Connect with Me
+## 🤝 Let's Connect!
+
+I am always open to discussing **C++ development, game AI, or research in multi-agent reinforcement learning (MARL)**. Whether you want to collaborate on a project, discuss my Terraria Mod, or just chat about tech, feel free to reach out!
 
 <p align="left">
-  <!-- 个人主页 / 简历 (如果你有个人网站或者简历链接，把下面的 # 换成链接) -->
-  <a href="https://crimson-shela-18.tiiny.site" target="_blank">
-  <img src="https://img.shields.io/badge/-View_Resume-409090?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/>
-</a>
+  <!-- 邮箱 -->
+  <a href="mailto:2250736@tongji.edu.cn"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   
-  <!-- 邮箱 (建议换成你的主力邮箱) -->
-  <a href="mailto:lmq120191005@outlook.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <!-- 简历 -->
+  <a href="https://crimson-shela-18.tiiny.site" target="_blank"><img src="https://img.shields.io/badge/-View_Resume-409090?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/></a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/Lmq0"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <p align="center">
-  <i>Let's connect and build something amazing together!</i>
+  <i>Let's build something amazing together!</i>
 </p>
-
 
