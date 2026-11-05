@@ -24,7 +24,11 @@ Here are some ideas to get you started:
   <img src="./avatar.jpg" alt="Lmq's Avatar" width="18%" style="display:inline-block; margin-right:3%; border-radius: 15px;">
   
   <!-- 右边：贪吃蛇贡献图。会自动抓取你的提交记录 -->
-  <img src="https://raw.githubusercontent.com/Lmq0/Lmq0/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="75%" style="display:inline-block;">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lmq0/Lmq0/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lmq0/Lmq0/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Lmq0/Lmq0/output/github-snake.svg" width="75%" style="display:inline-block;">
+</picture>
 
 
 
