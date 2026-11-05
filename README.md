@@ -23,6 +23,8 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/Lmq0/Lmq0/output/github-contribution-grid-snake.svg" alt="贡献" width="100%" style="display:inline-block;">
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lmq0&theme=dracular&title_color=44AAEE&text_color=445566&layout=compact&card_width=405&count_private=true&size_weight=0.5&count_weight=0.5) <img src="https://github-readme-stats.vercel.app/api?username=Lmq0&show_icons=true&theme=dracular&title_color=44AAEE&text_color=445566&icon_color=44AAEE&rank_icon=percentile&hide=issues&line_height=24&card_width=400&count_private=true">
+
 
 I am proficient in or learning to use these languages or tools:
 
@@ -39,4 +41,12 @@ I am proficient in or learning to use these languages or tools:
  ![PyMARL](https://img.shields.io/badge/-PyMARL-3776AB?style=flat-square)
  ![SMAC](https://img.shields.io/badge/-SMAC-409040?style=flat-square)
  ![GitHub](https://img.shields.io/badge/-GitHub-404040?style=flat-square)
- 
+
+> [!NOTE]
+> **`2024/2025: 🎉 Honored to receive the Direct Ph.D. recommendation (推免) at Tongji University!`**
+> 
+> **`2026: 🚀 Preparing for my Master's (MSc) journey at Nanyang Technological University (NTU)!`**
+
+**Now I am a Computer Science undergraduate from Tongji University, China.** 
+
+
