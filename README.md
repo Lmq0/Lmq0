@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 > ### ***"Talk is cheap. Show me the code." — Linus Torvalds***
 
-<p align="center">
-  <!-- 照片：宽度 25%，高度固定 120px（变矮了），并自动裁剪填充 -->
-  <img src="./avatar.jpg" alt="Avatar" width="25%" style="height: 120px; object-fit: cover; border-radius: 10px; vertical-align: middle; margin-right: 2%;" />
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 2%;">
+  <!-- 照片：只限制高度为 160px，宽度设为 auto 自动按比例缩放 -->
+  <img src="./avatar.jpg" alt="Avatar" style="height: 160px; width: auto; border-radius: 10px;" />
   
-  <!-- 贪吃蛇：宽度 70%，高度对齐 120px，让格子看起来更大 -->
-  <img src="https://raw.githubusercontent.com/Lmq0/Lmq0/output/github-snake-dark.svg" alt="Snake" width="70%" style="height: 120px; vertical-align: middle;" />
+  <!-- 贪吃蛇：宽度占 75%，高度也随之限制在 160px 左右，让方块不至于太小 -->
+  <img src="https://raw.githubusercontent.com/Lmq0/Lmq0/output/github-snake-dark.svg" alt="Snake" width="75%" style="max-height: 160px;" />
 </p>
 
 
