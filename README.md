@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 2%;">
   <!-- 照片：只限制高度为 160px，宽度设为 auto 自动按比例缩放 -->
-  <img src="./avatar.jpg" alt="Avatar" style="height: 160px; width: auto; border-radius: 10px;" />
+  <img src="./avatar.jpg" alt="Avatar" style="height: 150px; width: auto; border-radius: 10px;" />
   
   <!-- 贪吃蛇：宽度占 75%，高度也随之限制在 160px 左右，让方块不至于太小 -->
   <img src="https://raw.githubusercontent.com/Lmq0/Lmq0/output/github-snake-dark.svg" alt="Snake" width="82%" style="max-height: 160px;" />
