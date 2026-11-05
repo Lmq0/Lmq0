@@ -58,3 +58,22 @@ I am proficient in or learning to use these languages or tools:
 🛡️ **Research Focus**: My current research revolves around Adversarial Attack and Defense (攻防对抗). I have hands-on experience with multi-agent reinforcement learning frameworks such as **PyMARL** and **SMAC**, which are deeply connected to my ongoing thesis and research work. 
 
 
+-------
+
+## 🤝 Connect with Me
+
+<p align="left">
+  <!-- 个人主页 / 简历 (如果你有个人网站或者简历链接，把下面的 # 换成链接) -->
+  <a href="https://crimson-shela-18.tiiny.site" target="_blank">
+  <img src="https://img.shields.io/badge/-View_Resume-409090?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume"/>
+</a>
+  
+  <!-- 邮箱 (建议换成你的主力邮箱) -->
+  <a href="mailto:lmq120191005@outlook.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <i>Let's connect and build something amazing together!</i>
+</p>
+
+
