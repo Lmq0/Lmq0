@@ -22,3 +22,21 @@ Here are some ideas to get you started:
 <p align="left">
   <img src="https://raw.githubusercontent.com/Lmq0/Lmq0/output/github-contribution-grid-snake.svg" alt="贡献" width="100%" style="display:inline-block;">
 </p>
+
+
+I am proficient in or learning to use these languages or tools:
+
+ ![C](http://img.shields.io/badge/-C-808080?style=flat-square)
+ ![CPP](http://img.shields.io/badge/-CPP-904090?style=flat-square)
+ ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square)
+ ![CSharp](http://img.shields.io/badge/-CSharp-409040?style=flat-square)
+ ![HTML](https://img.shields.io/badge/-HTML-%23E44D27?style=flat-square)
+ ![PyTorch](http://img.shields.io/badge/-PyTorch-3776AB?style=flat-square)
+ ![TensorFlow](http://img.shields.io/badge/-TensorFlow-%23FF6F00?style=flat-square)
+ ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square)
+ ![VS](http://img.shields.io/badge/-JetBrainsIDE-904090?style=flat-square)
+ ![Conda](https://img.shields.io/badge/-Conda-43B02A?style=flat-square)
+ ![PyMARL](https://img.shields.io/badge/-PyMARL-3776AB?style=flat-square)
+ ![SMAC](https://img.shields.io/badge/-SMAC-409040?style=flat-square)
+ ![GitHub](https://img.shields.io/badge/-GitHub-404040?style=flat-square)
+ 
