@@ -20,9 +20,12 @@ Here are some ideas to get you started:
 > ### ***"Talk is cheap. Show me the code." — Linus Torvalds***
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Lmq0/Lmq0/output/github-contribution-grid-snake.svg" alt="贡献" width="100%" style="display:inline-block;">
+  <!-- 左边：你的头像。请把 src 换成你上传到仓库的头像图片文件名 -->
+  <img src="./avatar.jpg" alt="Lmq's Avatar" width="18%" style="display:inline-block; margin-right:3%; border-radius: 15px;">
+  
+  <!-- 右边：贪吃蛇贡献图。会自动抓取你的提交记录 -->
+  <img src="https://raw.githubusercontent.com/Lmq0/Lmq0/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="75%" style="display:inline-block;">
 </p>
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lmq0&theme=dracular&title_color=44AAEE&text_color=445566&layout=compact&card_width=405&count_private=true&size_weight=0.5&count_weight=0.5) <img src="https://github-readme-stats.vercel.app/api?username=Lmq0&show_icons=true&theme=dracular&title_color=44AAEE&text_color=445566&icon_color=44AAEE&rank_icon=percentile&hide=issues&line_height=24&card_width=400&count_private=true">
 
 
