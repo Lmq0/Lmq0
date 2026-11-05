@@ -49,4 +49,10 @@ I am proficient in or learning to use these languages or tools:
 
 **Now I am a Computer Science undergraduate from Tongji University, China.** 
 
+🎓 **Academic Foundations**: I have built a solid foundation through various course projects and comprehensive assignments at Tongji University, primarily focusing on backend development, C++, and data structures. I am constantly improving my engineering skills to prepare for advanced studies.
+
+🎮 **Game Dev & AI Explorations**: Beyond coursework, I am a huge game enthusiast! I developed a Terraria boss AI mod (based on Calamity) using C# and tModLoader, diving deep into event-driven mechanisms. Recently, I have also been exploring agent-based systems for fun and making fancy projects.
+
+🛡️ **Research Focus**: My current research revolves around Adversarial Attack and Defense (攻防对抗). I have hands-on experience with multi-agent reinforcement learning frameworks such as **PyMARL** and **SMAC**, which are deeply connected to my ongoing thesis and research work. 
+
 
